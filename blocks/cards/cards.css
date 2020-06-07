@@ -5,8 +5,9 @@
 
 .cards {
   width: 920px;
-  margin: auto;
+  height: 900px;
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
   border-radius: 80px;
+  margin: auto;
 }
